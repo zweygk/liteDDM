@@ -1,0 +1,11 @@
+[project]
+name="liteDDM"
+version="0.1.0"
+
+[tool.pytest.ini_options]
+testpaths = ["examples"]
+pythonpath = ["src"]
+filterwarnings = [
+    "ignore::DeprecationWarning",
+    "ignore::UserWarning",
+]
