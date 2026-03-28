@@ -6,7 +6,7 @@ liteDDM is a lightweight framework for testing data drift.
 
 ## Disclaimer 
 
-Use at your own risk, I'm not responsible for failing to detect drift in your data.
+Use at your own risk, I'm not responsible for failing to detect drift in your data. I literally shat this out in an afternoon so don't expect miracles.
 
 ## Motivation
 
